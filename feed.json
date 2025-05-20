@@ -1,0 +1,182 @@
+[
+  {
+    "url": "http://feeds.bbci.co.uk/news/rss.xml",
+    "country": "United Kingdom",
+    "source": "BBC News",
+    "extract_content": false
+  },
+  {
+    "url": "http://rss.cnn.com/rss/edition.rss",
+    "country": "USA",
+    "source": "CNN",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "country": "Qatar",
+    "source": "Al Jazeera",
+    "extract_content": false
+  },
+  {
+    "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+    "country": "Japan",
+    "source": "NHK",
+    "extract_content": false
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "country": "India",
+    "source": "Times of India",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+    "country": "Singapore",
+    "source": "Channel News Asia",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.thestar.com.my/rss/News",
+    "country": "Malaysia",
+    "source": "The Star",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.kompas.com/rss",
+    "country": "Indonesia",
+    "source": "Kompas",
+    "extract_content": false
+  },
+  {
+    "url": "http://feeds.koreatimes.co.kr/rss/rss_nation.xml",
+    "country": "South Korea",
+    "source": "Korea Times",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.chinadaily.com.cn/rss/china_rss.xml",
+    "country": "China",
+    "source": "China Daily",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.theaustralian.com.au/feed/",
+    "country": "Australia",
+    "source": "The Australian",
+    "extract_content": false
+  },
+  {
+    "url": "https://rss.dw.com/rdf/rss-en-all",
+    "country": "Germany",
+    "source": "Deutsche Welle",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.france24.com/en/rss",
+    "country": "France",
+    "source": "France 24",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.rt.com/rss/",
+    "country": "Russia",
+    "source": "RT",
+    "extract_content": false
+  },
+  {
+    "url": "https://feed.huffingtonpost.com/feeds/index.xml",
+    "country": "USA",
+    "source": "Huffington Post",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.theguardian.com/international/rss",
+    "country": "United Kingdom",
+    "source": "The Guardian",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.smh.com.au/rss/feed.xml",
+    "country": "Australia",
+    "source": "Sydney Morning Herald",
+    "extract_content": false
+  },
+  {
+    "url": "https://globalnews.ca/feed/",
+    "country": "Canada",
+    "source": "Global News",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.repubblica.it/rss/homepage/rss2.0.xml",
+    "country": "Italy",
+    "source": "La Repubblica",
+    "extract_content": false
+  },
+  {
+    "url": "https://feeds.feedburner.com/ndtvnews-world-news",
+    "country": "India",
+    "source": "NDTV",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf",
+    "country": "Japan",
+    "source": "Asahi Shimbun",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.bangkokpost.com/rss/data/topstories.xml",
+    "country": "Thailand",
+    "source": "Bangkok Post",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.haaretz.com/cmlink/1.628765",
+    "country": "Israel",
+    "source": "Haaretz",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.irishtimes.com/rss/feed-of-most-recent-stories/",
+    "country": "Ireland",
+    "source": "The Irish Times",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.dailysabah.com/rss/HomePage",
+    "country": "Turkey",
+    "source": "Daily Sabah",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.straitstimes.com/RSS-World",
+    "country": "Singapore",
+    "source": "The Straits Times",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.iol.co.za/cmlink/1.640",
+    "country": "South Africa",
+    "source": "IOL",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.arabnews.com/rss.xml",
+    "country": "Saudi Arabia",
+    "source": "Arab News",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.buenosairesherald.com/articles.rss",
+    "country": "Argentina",
+    "source": "Buenos Aires Herald",
+    "extract_content": false
+  },
+  {
+    "url": "https://www.hindustantimes.com/rss/topnews/rssfeed.xml",
+    "country": "India",
+    "source": "Hindustan Times",
+    "extract_content": false
+  }
+]
