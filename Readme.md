@@ -55,3 +55,21 @@ python rss_scraper.py --format csv
 python rss_scraper.py --format db
 ```
 
+## Historical Data Retrieval
+To retrieve historical data, you can use the `--start-date` and `--end-date
+
+## Challenges 
+Official APIs
+
+Some news organizations offer official APIs (often with limitations)
+May require registration, approval, and potentially payment
+
+
+Inconsistent Data Formats
+
+Publication dates in varying formats across sources
+Different time zones creating timestamp inconsistencies
+Need standardized datetime parsing
+
+
+
